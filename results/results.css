@@ -1,0 +1,11 @@
+.tableNumbers {
+    text-align: right;
+    width: 100px;
+}
+td{
+    width: 50px;
+}
+
+thead > tr > td {
+    border-bottom: black solid 2px;
+}
